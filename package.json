@@ -20,7 +20,7 @@
 	"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=webqueue&currency_code=EUR",
 	"homepage": "https://github.com/diogoeichert/webqueue#readme",
 	"dependencies": {
-		"wideweb": "^1.4.2"
+		"wideweb": "^1.4.4"
 	},
 	"devDependencies": {
 		"eslint": "^7.19.0",
